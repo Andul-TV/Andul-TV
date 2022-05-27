@@ -1,0 +1,29 @@
+<tv>
+<channel id="antara">
+<display-name>antara</display-name>
+<icon src="https://i.postimg.cc/C5YzXjVY/logo-antara-big1.png"/>
+<url>https://indihome.co.id</url>
+<channel id="atv">
+<display-name>ATV</display-name>
+<icon src="https://www.useetv.com/pimages/logo_atv_big.png"/>
+<url>https://www.useetv.com</url>
+<channel id="cnbcindonesia">
+<display-name>CNBC Indonesia</display-name>
+<icon src="https://i.imgur.com/uJTTmk8.png?v=1.0.0.1"/>
+<url>https://indihome.co.id</url>
+<channel id="flik">
+<display-name></display-name>
+<icon src="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13"/>
+<url>https://indihome.co.id</url>
+<channel id="indonesiana">
+<display-name>Indonesiana</display-name>
+<icon src="https://www.useetv.com/pimages/logo_indonesiana_big.png"/>
+<url>https://indihome.co.id</url>
+<channel id="jtv">
+<display-name>Jtv</display-name>
+<icon src="https://images.useetv.com/logo_jtv_big1.png?v=2.0.0.13"/>
+<url>https://indihome.co.id</url>
+<channel id="">
+<display-name></display-name>
+<icon src="https://www.lyngsat.com/logo/tv/aa/ajwa-tv-id.png"/>
+<url>https://indihome.co.id</url>
