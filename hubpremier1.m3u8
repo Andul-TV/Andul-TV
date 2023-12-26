@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:65535
 #EXT-X-VERSION:2
-#EXTINF:65535,
+#EXTINF:25535,
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=1032529&extension=m3u8
 #http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350557_&extension=m3u8
